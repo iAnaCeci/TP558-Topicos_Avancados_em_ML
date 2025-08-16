@@ -14,17 +14,17 @@ Promover a leitura crítica de artigos científicos recentes.
 
 Estimular a apresentação e discussão de seminários.
 
-Desenvolver trabalhos práticos individuais e em grupo.
+Desenvolver trabalhos práticos.
 
 # 📌 Atividades
 
-Seminários: cada grupo apresentou um tema relacionado a Machine Learning (artigos recentes, aplicações práticas ou técnicas específicas).
+Seminários: aprensentação de um tema relacionado a Machine Learning (artigos recentes, aplicações práticas ou técnicas específicas).
 
 Leituras dirigidas: estudo de papers e capítulos de livros recomendados.
 
 Discussões em sala: debates sobre oportunidades, desafios e aplicações reais de ML.
 
-Trabalho prático: desenvolvimento de pequenos experimentos para aplicar os conceitos estudados.
+Trabalho prático: desenvolvimento de projetos para aplicar os conceitos estudados.
 
 # 🚀 Tecnologias utilizadas
 
